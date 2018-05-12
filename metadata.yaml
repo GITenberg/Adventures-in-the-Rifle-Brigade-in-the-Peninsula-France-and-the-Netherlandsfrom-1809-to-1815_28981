@@ -1,0 +1,34 @@
+_repo: Adventures-in-the-Rifle-Brigade-in-the-Peninsula-France-and-the-Netherlandsfrom-1809-to-1815_28981
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kincaid, J. (John)
+    alias: Kincaid, John
+    birthdate: 1787
+    deathdate: 1862
+    gutenberg_agent_id: '33621'
+    url: http://www.gutenberg.org/2009/agents/33621
+description: ''
+gutenberg_issued: '2009-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcsh 'Great Britain. Army. Rifle Brigade (Prince Consort''s Own) -- Biography'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Personal narratives, British'
+- !lcsh 'Soldiers -- Great Britain -- Biography'
+- !lcsh 'Peninsular War, 1807-1814 -- Personal narratives, British'
+- !lcc 'DC'
+- !lcsh 'Kincaid, J. (John), 1787-1862'
+title: 'Adventures in the Rifle Brigade, in the Peninsula, France, and the Netherlands
+
+  from 1809 to 1815'
+url: http://www.gutenberg.org/ebooks/28981
